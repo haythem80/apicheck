@@ -1,0 +1,10 @@
+body {
+  height: 750px; 
+  background-color:rgb(255, 240, 243); 
+  background-image: url(https://media.istockphoto.com/id/1302189748/photo/digital-cyberspace-with-particles-and-digital-data-network-connections-high-speed-connection.webp?b=1&s=170667a&w=0&k=20&c=_CCfdXMeN0cse3LMXdIYJ_ne-WKIhc4PbqT2dPR8vR8=); 
+  background-repeat: no-repeat; 
+  background-position: center; 
+  background-attachment: fixed; 
+  background-size: cover;
+  color: white ;
+}
